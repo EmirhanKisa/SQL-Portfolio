@@ -1,6 +1,6 @@
 /*
 Problem: Tesla Production Bottlenecks
-Dialect: PostgreSql 14
+Dialect: MySql
 Link : https://datalemur.com/questions/tesla-unfinished-parts
 */
 
